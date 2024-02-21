@@ -1,1 +1,1 @@
-# exercises
+# CodeSignals exercises
